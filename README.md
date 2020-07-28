@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**GabrielMarques09/GabrielMarques09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### 👋 Hello! I'm Gabriel Alcântara
 🔭 Graduated in Internet Systems, I am currently doing a postgraduate degree in Web Development Fullstack. Every day more excited about my studies in web development. 
 
