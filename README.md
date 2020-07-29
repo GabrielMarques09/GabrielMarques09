@@ -4,7 +4,7 @@
 ##### 💻 The technologies I'm most familiar with:
 
 
-- ⚡ Node, Javascript, Reactjs, HTML, CSS, Tailwindcss, Bootstrap
+- ⚡ [https://img.shields.io/badge/Node-lightgrey?style=for-the-flat&logo=Node.js]
 
 ### 📫 Reach me at 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/gabriel-alc%C3%A2ntara/)
