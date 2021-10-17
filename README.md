@@ -4,7 +4,7 @@
 ##### 💻 The technologies I'm most familiar with:
 
 
-- ⚡ Node, Javascript, Reactjs, HTML, CSS, Tailwindcss, Bootstrap
+- ⚡ Apex, Node, Javascript, Reactjs, HTML, CSS, Tailwindcss, Bootstrap
 
 ### 📫 Reach me at 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/gabriel-alc%C3%A2ntara/)
